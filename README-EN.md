@@ -1,5 +1,5 @@
 ![splash](https://user-images.githubusercontent.com/64573431/137276986-f7c7afb9-d931-411e-b0a1-ba834b5ca1f2.png)
-# [Read user guide by clicking here](https://github.com/carcaschoi/ShallowSea/blob/main/User%20guide.md)
+# [Read user guide by clicking here](https://github.com/carcaschoi/ShallowSea/blob/main/docs/User%20guide.md)
 # ShallowSea
 The All-in-One CFW package for the Nintendo Switch with Atmosphere (fss0 version). 
 
